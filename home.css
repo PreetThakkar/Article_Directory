@@ -1,0 +1,34 @@
+.mycard{
+	height: 200px;  
+	width: 400px; 
+	text-align: center;
+	padding-top: 25px;
+	border: 2px;
+	border-style: solid;
+	box-shadow: 10px 10px 8px #888888;
+	color: blue;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+#bgimg{
+	position: fixed;
+	height: 1080px;
+	width: 1920px;
+	-webkit-filter: blur(5px);
+	-moz-filter: blur(5px);
+	-o-filter: blur(5px);
+	-ms-filter: blur(10px);
+	filter: blur(5px);
+}
+
+.logcred{
+	font-family: "Algerian";
+	font-size: 120%;
+}
